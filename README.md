@@ -8,7 +8,7 @@ I created this basic Template App that you can use as a project starter or simpl
 Unlike Adafruits example this one includes DisplayIO.
 
 
-Reqiured Libraries
+Reqiured Libraries:
   Adafruit_bitmap_font
   Adafruit_bus_device
   Adafruit_display_text
